@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @number1ofscript
+- 👀 I’m interested in Android Studio and XCode
+- 🌱 I’m currently learning Android Studio
+- 💞️ I’m looking to collaborate on a team of IOS developer and Android developer
